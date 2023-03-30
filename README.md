@@ -3,7 +3,7 @@
 Hi this is me
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MirkoBr/MirkoBr/blob/main/images/banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/MirkoBr/MirkoBr/blob/main/images/banner.png">
+ <img alt="Banner image" src="https://github.com/MirkoBr/MirkoBr/blob/main/images/banner.png">
 </picture>
