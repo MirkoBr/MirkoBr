@@ -6,9 +6,8 @@
  <img alt="Banner image" src="https://github.com/MirkoBr/MirkoBr/blob/main/images/banner.png">
 </picture>
 
-I am a bioinformatician and dedicated scientist interested in (post-) transcriptional RNA regulation and cancer biology. My passion is the visualization and integration of high-throughput data. Looking at results from as many angles and perspectives as possible is my ambition. My interest in package development led me to work on <a href="https://www.bioconductor.org/help/search/index.html?q=BindingSiteFinder/">BindingSiteFinder 🚀 </a>  to make the definition of RBP binding sites more robust, reliable and reproducible. 
+Computational genomics scientist with a background in bioinformatics and RNA biology, working on the analysis and integration of large-scale genomic and transcriptomic data in oncology and human disease. Interested in reproducible method and pipeline development, data integration, and visualization to support biologically interpretable and translational insights.
 
-Learn more about my recent and past projects on my <a href="http://mirkobrueggemann.com/">website 🧬 </a> and connect with me on <a href="https://www.linkedin.com/in/dr-mirko-br%C3%BCggemann-1249b81b3/">LinkedIn 💼 </a>. 
+I have contributed to open-source software development, including <a href="https://www.bioconductor.org/help/search/index.html?q=BindingSiteFinder/">BindingSiteFinder 🚀 </a>, an R/ Bioconductor package designed to improve the robustness and reproducibility of RNA-binding protein binding site detection.
 
-
-
+Learn more about my work on my <a href="http://mirkobrueggemann.com/">website 🧬</a> or connect with me on <a href="https://www.linkedin.com/in/dr-mirko-br%C3%BCggemann-1249b81b3/">LinkedIn 💼</a>.
